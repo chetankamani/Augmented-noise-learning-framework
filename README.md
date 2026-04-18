@@ -1,3 +1,5 @@
+Presentation Link: https://drive.google.com/file/d/1VjCb9UFcK8EDJh9tIVmCDXFRj8zaEuBa/view?usp=sharing
+
 Augmented Noise Learning (ANL) for Medical Image Denoising
 
 This repository presents an implementation of an Augmented Noise Learning (ANL) framework for medical image denoising, combining the strengths of dictionary learning (K-SVD) and a Deep Residual Network (DRN). The proposed approach is designed to effectively handle complex noise patterns commonly found in CT images, especially Poisson noise.
